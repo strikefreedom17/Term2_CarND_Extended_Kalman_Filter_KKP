@@ -13,10 +13,11 @@ Dataset 1: RMSE = [0.0973, 0.0855, 0.4513, 0.4399], and
 Dataset 2: RMSE = [0.0726, 0.0965, 0.4216, 0.4932].
 
 The simulation results are shown as following:
-![alt text][image1] EKF estimation result given Dataset 1, Green: Estimated states, Red: Lidar measurement, Blue: Radar measurement
+![EKF estimation result given Dataset 1, Green: Estimated states, Red: Lidar measurement, Blue: Radar measurement][image1] 
 
 
-[image2]: EKF estimation result given Dataset 1
+![EKF estimation result given Dataset 2][image2] 
+
 
 
 
